@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          168.00000000000003,
+          164.66666666666669
+        ],
+        [
+          452.0,
+          453.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0060.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

@@ -1,0 +1,173 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "120.rf.2ee3cbbdbbf59e9cb2fc00ac0a05ee14.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 0,
+      "points": [
+        [
+          327,
+          158
+        ],
+        [
+          379,
+          209
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 1,
+      "points": [
+        [
+          172,
+          340
+        ],
+        [
+          225,
+          392
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 2,
+      "points": [
+        [
+          213,
+          156
+        ],
+        [
+          265,
+          208
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 3,
+      "points": [
+        [
+          331,
+          238
+        ],
+        [
+          383,
+          289
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 4,
+      "points": [
+        [
+          464,
+          302
+        ],
+        [
+          519,
+          355
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 5,
+      "points": [
+        [
+          176,
+          250
+        ],
+        [
+          229,
+          301
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 6,
+      "points": [
+        [
+          411,
+          229
+        ],
+        [
+          464,
+          282
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 7,
+      "points": [
+        [
+          250,
+          248
+        ],
+        [
+          302,
+          299
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 8,
+      "points": [
+        [
+          66,
+          307
+        ],
+        [
+          120,
+          359
+        ]
+      ]
+    }
+  ]
+}

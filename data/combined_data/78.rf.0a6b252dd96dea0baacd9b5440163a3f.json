@@ -1,0 +1,105 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "78.rf.0a6b252dd96dea0baacd9b5440163a3f.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 0,
+      "points": [
+        [
+          269,
+          272
+        ],
+        [
+          320,
+          323
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 1,
+      "points": [
+        [
+          345,
+          368
+        ],
+        [
+          397,
+          421
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 2,
+      "points": [
+        [
+          400,
+          245
+        ],
+        [
+          452,
+          297
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 3,
+      "points": [
+        [
+          161,
+          174
+        ],
+        [
+          214,
+          226
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 4,
+      "points": [
+        [
+          293,
+          105
+        ],
+        [
+          345,
+          157
+        ]
+      ]
+    }
+  ]
+}

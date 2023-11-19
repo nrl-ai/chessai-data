@@ -1,0 +1,112 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          46.226415094339586,
+          602.8301886792452
+        ],
+        [
+          283.0188679245283,
+          815.0943396226414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          94.33962264150944,
+          406.60377358490564
+        ],
+        [
+          301.88679245283015,
+          572.6415094339621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          277.35849056603774,
+          525.4716981132075
+        ],
+        [
+          482.0754716981131,
+          707.5471698113207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          261.3207547169811,
+          289.62264150943395
+        ],
+        [
+          450.0,
+          438.6792452830189
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          458.4905660377358,
+          422.64150943396226
+        ],
+        [
+          655.6603773584906,
+          620.754716981132
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          639.622641509434,
+          484.90566037735846
+        ],
+        [
+          831.1320754716982,
+          650.9433962264151
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0003.jpg",
+  "imageData": null,
+  "imageHeight": 900,
+  "imageWidth": 900
+}

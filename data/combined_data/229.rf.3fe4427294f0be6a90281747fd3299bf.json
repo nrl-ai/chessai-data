@@ -1,0 +1,37 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "229.rf.3fe4427294f0be6a90281747fd3299bf.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 0,
+      "points": [
+        [
+          338,
+          151
+        ],
+        [
+          389,
+          203
+        ]
+      ]
+    }
+  ]
+}

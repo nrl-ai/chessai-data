@@ -1,0 +1,88 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "140.rf.93a2bdf7afb5753d89ff53d15a1d82bc.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 0,
+      "points": [
+        [
+          227,
+          200
+        ],
+        [
+          275,
+          249
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 1,
+      "points": [
+        [
+          424,
+          222
+        ],
+        [
+          474,
+          272
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 2,
+      "points": [
+        [
+          298,
+          152
+        ],
+        [
+          345,
+          202
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 3,
+      "points": [
+        [
+          370,
+          167
+        ],
+        [
+          418,
+          218
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "130.rf.579d3fd09713fa23ba3f8fbe8728cbd8.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "ma",
+      "group_id": 0,
+      "points": [
+        [
+          198,
+          97
+        ],
+        [
+          248,
+          148
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "ma",
+      "group_id": 1,
+      "points": [
+        [
+          305,
+          17
+        ],
+        [
+          357,
+          71
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "si",
+      "group_id": 2,
+      "points": [
+        [
+          290,
+          222
+        ],
+        [
+          341,
+          271
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "si",
+      "group_id": 3,
+      "points": [
+        [
+          479,
+          326
+        ],
+        [
+          532,
+          378
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "si",
+      "group_id": 4,
+      "points": [
+        [
+          106,
+          171
+        ],
+        [
+          159,
+          223
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 5,
+      "points": [
+        [
+          267,
+          368
+        ],
+        [
+          318,
+          419
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 6,
+      "points": [
+        [
+          71,
+          335
+        ],
+        [
+          124,
+          386
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 7,
+      "points": [
+        [
+          63,
+          230
+        ],
+        [
+          115,
+          280
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 8,
+      "points": [
+        [
+          139,
+          85
+        ],
+        [
+          192,
+          137
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 9,
+      "points": [
+        [
+          501,
+          131
+        ],
+        [
+          555,
+          184
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "xe",
+      "group_id": 10,
+      "points": [
+        [
+          405,
+          342
+        ],
+        [
+          457,
+          393
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "xe",
+      "group_id": 11,
+      "points": [
+        [
+          447,
+          69
+        ],
+        [
+          500,
+          122
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 12,
+      "points": [
+        [
+          169,
+          204
+        ],
+        [
+          220,
+          255
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 13,
+      "points": [
+        [
+          252,
+          113
+        ],
+        [
+          301,
+          163
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 14,
+      "points": [
+        [
+          130,
+          266
+        ],
+        [
+          182,
+          317
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 15,
+      "points": [
+        [
+          199,
+          311
+        ],
+        [
+          250,
+          363
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 16,
+      "points": [
+        [
+          340,
+          281
+        ],
+        [
+          391,
+          332
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 17,
+      "points": [
+        [
+          364,
+          113
+        ],
+        [
+          416,
+          166
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 18,
+      "points": [
+        [
+          447,
+          216
+        ],
+        [
+          501,
+          269
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 19,
+      "points": [
+        [
+          379,
+          193
+        ],
+        [
+          430,
+          244
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 20,
+      "points": [
+        [
+          527,
+          256
+        ],
+        [
+          581,
+          309
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "113.rf.36073f6db52f837e2c5d4c2548ab0cde.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "si",
+      "group_id": 0,
+      "points": [
+        [
+          361,
+          254
+        ],
+        [
+          409,
+          303
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 1,
+      "points": [
+        [
+          414,
+          173
+        ],
+        [
+          466,
+          224
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tot",
+      "group_id": 2,
+      "points": [
+        [
+          343,
+          132
+        ],
+        [
+          394,
+          184
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "xe",
+      "group_id": 3,
+      "points": [
+        [
+          383,
+          323
+        ],
+        [
+          435,
+          374
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "xe",
+      "group_id": 4,
+      "points": [
+        [
+          203,
+          288
+        ],
+        [
+          254,
+          338
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 5,
+      "points": [
+        [
+          275,
+          329
+        ],
+        [
+          324,
+          379
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 6,
+      "points": [
+        [
+          211,
+          205
+        ],
+        [
+          265,
+          257
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 7,
+      "points": [
+        [
+          274,
+          117
+        ],
+        [
+          325,
+          169
+        ]
+      ]
+    }
+  ]
+}

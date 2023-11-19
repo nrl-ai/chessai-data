@@ -1,0 +1,54 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "103.rf.eee189eb0b0c05d084329b36d8b6f88d.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 0,
+      "points": [
+        [
+          391,
+          188
+        ],
+        [
+          442,
+          239
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 1,
+      "points": [
+        [
+          211,
+          284
+        ],
+        [
+          262,
+          335
+        ]
+      ]
+    }
+  ]
+}

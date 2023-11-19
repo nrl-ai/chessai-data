@@ -1,0 +1,44 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          315.74074074074076,
+          305.0740740740741
+        ],
+        [
+          579.4444444444445,
+          515.4444444444445
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          637.9629629629629,
+          340.6296296296296
+        ],
+        [
+          906.1111111111111,
+          556.9259259259259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0088.jpg",
+  "imageData": null,
+  "imageHeight": 662,
+  "imageWidth": 950
+}

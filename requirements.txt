@@ -1,0 +1,4 @@
+funcy==2.0
+scikit-learn==1.3.1
+sahi==0.11.14
+scikit-multilearn==0.2.0

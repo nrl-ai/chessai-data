@@ -1,0 +1,146 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          239.72222222222217,
+          412.91666666666663
+        ],
+        [
+          727.2222222222222,
+          897.6388888888888
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          484.16666666666674,
+          235.13888888888883
+        ],
+        [
+          657.7777777777778,
+          372.6388888888888
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          657.7777777777778,
+          261.5277777777777
+        ],
+        [
+          842.5,
+          419.86111111111103
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          698.0555555555554,
+          161.52777777777771
+        ],
+        [
+          867.5,
+          283.74999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          843.8888888888889,
+          297.6388888888888
+        ],
+        [
+          956.3888888888889,
+          464.3055555555555
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          536.9444444444443,
+          121.24999999999996
+        ],
+        [
+          688.3333333333333,
+          240.69444444444437
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          748.0555555555554,
+          50.41666666666661
+        ],
+        [
+          906.3888888888889,
+          171.24999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          578.6111111111111,
+          39.30555555555549
+        ],
+        [
+          741.1111111111111,
+          139.3055555555555
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0481.jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 960
+}

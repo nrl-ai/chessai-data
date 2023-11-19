@@ -1,0 +1,122 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "60.rf.a2ffab3eff71c0664b29d9469c08914c.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 0,
+      "points": [
+        [
+          400,
+          42
+        ],
+        [
+          452,
+          94
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 1,
+      "points": [
+        [
+          549,
+          152
+        ],
+        [
+          602,
+          203
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 2,
+      "points": [
+        [
+          262,
+          306
+        ],
+        [
+          311,
+          357
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "phao",
+      "group_id": 3,
+      "points": [
+        [
+          165,
+          253
+        ],
+        [
+          218,
+          305
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 4,
+      "points": [
+        [
+          228,
+          131
+        ],
+        [
+          280,
+          185
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 5,
+      "points": [
+        [
+          402,
+          224
+        ],
+        [
+          456,
+          277
+        ]
+      ]
+    }
+  ]
+}

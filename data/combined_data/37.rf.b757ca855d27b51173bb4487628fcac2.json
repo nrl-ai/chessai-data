@@ -1,0 +1,122 @@
+{
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "37.rf.b757ca855d27b51173bb4487628fcac2.jpg",
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 0,
+      "points": [
+        [
+          297,
+          252
+        ],
+        [
+          346,
+          300
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 1,
+      "points": [
+        [
+          450,
+          347
+        ],
+        [
+          504,
+          400
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 2,
+      "points": [
+        [
+          100,
+          94
+        ],
+        [
+          154,
+          147
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "tuong",
+      "group_id": 3,
+      "points": [
+        [
+          63,
+          406
+        ],
+        [
+          116,
+          460
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 4,
+      "points": [
+        [
+          387,
+          25
+        ],
+        [
+          439,
+          78
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "rectangle",
+      "label": "vua",
+      "group_id": 5,
+      "points": [
+        [
+          147,
+          416
+        ],
+        [
+          200,
+          469
+        ]
+      ]
+    }
+  ]
+}

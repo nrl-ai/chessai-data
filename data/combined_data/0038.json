@@ -1,0 +1,146 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          150.98387096774192,
+          15.88709677419354
+        ],
+        [
+          231.6290322580645,
+          76.37096774193547
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          469.5322580645161,
+          1.7741935483870876
+        ],
+        [
+          553.0,
+          59.03225806451612
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          384.8548387096774,
+          28.79032258064515
+        ],
+        [
+          474.7741935483871,
+          96.12903225806451
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          494.12903225806446,
+          103.79032258064515
+        ],
+        [
+          604.2096774193548,
+          191.69354838709677
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          209.8548387096774,
+          82.41935483870967
+        ],
+        [
+          305.8225806451612,
+          157.41935483870967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          247.3548387096774,
+          137.66129032258064
+        ],
+        [
+          355.41935483870964,
+          228.79032258064515
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          325.17741935483866,
+          198.14516129032256
+        ],
+        [
+          450.5806451612903,
+          314.2741935483871
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          159.4516129032258,
+          262.258064516129
+        ],
+        [
+          294.0,
+          359.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0038.jpg",
+  "imageData": null,
+  "imageHeight": 360,
+  "imageWidth": 606
+}

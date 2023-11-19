@@ -1,0 +1,112 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          257.1007751937985,
+          49.73255813953488
+        ],
+        [
+          302.83720930232556,
+          78.41472868217055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "si",
+      "text": "",
+      "points": [
+        [
+          4.387596899224803,
+          44.5
+        ],
+        [
+          50.899224806201545,
+          71.05038759689923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          55.74418604651162,
+          34.422480620155035
+        ],
+        [
+          98.76744186046511,
+          61.360465116279066
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          106.51937984496124,
+          48.763565891472865
+        ],
+        [
+          149.7364341085271,
+          78.02713178294574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          206.51937984496124,
+          48.763565891472865
+        ],
+        [
+          250.89922480620154,
+          75.89534883720931
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          155.5503875968992,
+          36.360465116279066
+        ],
+        [
+          200.89922480620154,
+          63.4922480620155
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0266.jpg",
+  "imageData": null,
+  "imageHeight": 164,
+  "imageWidth": 308
+}

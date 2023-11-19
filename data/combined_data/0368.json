@@ -1,0 +1,112 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          14.32989690721638,
+          353.7113402061855
+        ],
+        [
+          201.95876288659792,
+          609.381443298969
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          83.40206185567001,
+          654.742268041237
+        ],
+        [
+          239.07216494845352,
+          877.422680412371
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          1.9587628865978104,
+          1.134020618556666
+        ],
+        [
+          122.57731958762884,
+          219.69072164948452
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          399.8969072164948,
+          41.34020618556698
+        ],
+        [
+          505.0515463917525,
+          191.85567010309276
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          429.7938144329896,
+          387.73195876288656
+        ],
+        [
+          508.14432989690727,
+          504.2268041237113
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          341.13402061855663,
+          273.29896907216494
+        ],
+        [
+          447.319587628866,
+          422.78350515463916
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0368.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 540
+}

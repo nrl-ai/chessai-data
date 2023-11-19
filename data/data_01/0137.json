@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          99.84916201117318,
+          222.3463687150838
+        ],
+        [
+          250.68715083798884,
+          374.3016759776536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0137.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 374
+}

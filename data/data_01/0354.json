@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          181.53763440860223,
+          427.41935483870964
+        ],
+        [
+          281.53763440860223,
+          530.6451612903226
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0354.jpg",
+  "imageData": null,
+  "imageHeight": 1000,
+  "imageWidth": 462
+}
