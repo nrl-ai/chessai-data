@@ -256,10 +256,28 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          312.7891156462585,
+          329.1836734693877
+        ],
+        [
+          397.14285714285717,
+          411.4965986394557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0180.jpg",
   "imageData": null,
   "imageHeight": 640,
-  "imageWidth": 480
+  "imageWidth": 480,
+  "text": ""
 }

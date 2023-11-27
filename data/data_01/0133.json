@@ -222,10 +222,79 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "tuong",
+      "text": "",
+      "points": [
+        [
+          137.1839080459771,
+          137.12643678160921
+        ],
+        [
+          318.79310344827593,
+          293.44827586206895
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          476.264367816092,
+          0.34482758620690956
+        ],
+        [
+          644.0804597701149,
+          121.0344827586207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          684.3103448275863,
+          87.70114942528737
+        ],
+        [
+          808.4482758620691,
+          240.57471264367817
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          643.0,
+          0.0
+        ],
+        [
+          808.4482758620691,
+          93.44827586206897
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0133.jpg",
   "imageData": null,
   "imageHeight": 1080,
-  "imageWidth": 810
+  "imageWidth": 810,
+  "text": ""
 }

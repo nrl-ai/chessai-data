@@ -504,8 +504,8 @@
           305.0
         ],
         [
-          921.0,
-          355.0
+          919.7080291970802,
+          360.4379562043796
         ]
       ],
       "group_id": null,
@@ -567,5 +567,6 @@
   "imagePath": "2dbfa198f26b4fc6d4e21cf5979faf2a.JPG",
   "imageData": null,
   "imageHeight": 1080,
-  "imageWidth": 1920
+  "imageWidth": 1920,
+  "text": ""
 }

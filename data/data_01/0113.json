@@ -511,6 +511,40 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          323.91304347826093,
+          828.695652173913
+        ],
+        [
+          383.9130434782609,
+          889.5652173913043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          858.695652173913,
+          587.8260869565216
+        ],
+        [
+          910.0,
+          638.2608695652173
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0113.jpg",
