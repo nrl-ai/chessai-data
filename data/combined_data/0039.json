@@ -360,23 +360,6 @@
       "flags": {}
     },
     {
-      "label": "phaoi",
-      "text": "",
-      "points": [
-        [
-          176.54008438818568,
-          139.0717299578059
-        ],
-        [
-          201.01265822784814,
-          161.01265822784808
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
       "label": "xe",
       "text": "",
       "points": [
@@ -494,10 +477,28 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          174.03225806451613,
+          139.4758064516129
+        ],
+        [
+          199.43548387096774,
+          161.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0039.jpg",
   "imageData": null,
   "imageHeight": 360,
-  "imageWidth": 640
+  "imageWidth": 640,
+  "text": ""
 }

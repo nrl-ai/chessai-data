@@ -71,23 +71,6 @@
       "flags": {}
     },
     {
-      "label": "tvua",
-      "text": "",
-      "points": [
-        [
-          313.2560975609756,
-          287.5609756097561
-        ],
-        [
-          369.3536585365854,
-          326.5853658536585
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
       "label": "tot",
       "text": "",
       "points": [
@@ -239,10 +222,45 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          118.44252873563221,
+          465.86206896551727
+        ],
+        [
+          197.7528735632185,
+          529.080459770115
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          310.81707317073165,
+          288.1707317073171
+        ],
+        [
+          368.1341463414633,
+          324.7560975609756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0043.jpg",
   "imageData": null,
   "imageHeight": 1080,
-  "imageWidth": 607
+  "imageWidth": 607,
+  "text": ""
 }

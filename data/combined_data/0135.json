@@ -137,10 +137,113 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "vua",
+      "text": "",
+      "points": [
+        [
+          313.844827586207,
+          518.735632183908
+        ],
+        [
+          365.5689655172414,
+          575.0574712643678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          371.316091954023,
+          521.0344827586207
+        ],
+        [
+          416.14367816091954,
+          580.8045977011494
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ma",
+      "text": "",
+      "points": [
+        [
+          254.07471264367825,
+          576.2068965517242
+        ],
+        [
+          295.4540229885058,
+          631.3793103448276
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "phao",
+      "text": "",
+      "points": [
+        [
+          310.396551724138,
+          583.1034482758621
+        ],
+        [
+          359.82183908045977,
+          634.8275862068965
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tot",
+      "text": "",
+      "points": [
+        [
+          248.32758620689663,
+          638.2758620689656
+        ],
+        [
+          296.6034482758621,
+          691.1494252873563
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "xe",
+      "text": "",
+      "points": [
+        [
+          426.4885057471265,
+          471.60919540229884
+        ],
+        [
+          478.21264367816093,
+          524.4827586206897
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "0135.jpg",
   "imageData": null,
   "imageHeight": 1080,
-  "imageWidth": 607
+  "imageWidth": 607,
+  "text": ""
 }
