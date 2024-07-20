@@ -9,3 +9,10 @@ conda activate chessai-dataprep
 pip install -r requirements.txt
 bash make_data.sh
 ```
+
+## Citation
+
+Please cite this paper if it helps your research:
+```bibtex
+@software{Nguyen_ChessAI_Data_-_2023,author = {Nguyen, Viet-Anh},doi = {10.5281/zenodo.1234},month = nov,title = {{ChessAI Data - Data for Chinese chess game position recognition}},url = {https://github.com/nrl-ai/chessai-data},version = {1.0.0},year = {2023}}
+```
